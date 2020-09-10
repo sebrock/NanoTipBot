@@ -10,3 +10,5 @@ __pycache__
 db_migrate.py
 subscribe.py
 test.py
+dbbackup
+1
